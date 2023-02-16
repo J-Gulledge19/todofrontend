@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+h2{
+  color: blue;
+}
+
+button{
+  background-color: blue;
+}
+
+input:focus{
+  border: 1px solid #1670BE !important;
+}
